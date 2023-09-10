@@ -27,7 +27,7 @@ console.log(typeof null); // object
 console.log(typeof age); 
 
 
-
+// My Own Notes💥💥💥💥💥💥
 
 // JavaScript offers various types of data types. Here are some examples:
 
