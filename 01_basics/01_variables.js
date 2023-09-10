@@ -10,16 +10,15 @@ let accountState ;
 // console.log(accountId);
 
 
-
 accountEmail = "bc180407212@vu.edu.pk"
 accountPassword = "bc1122";
 city = "Pattoki";
 
 
-
+// Notes
 /*
 Prefer not to use var
 because of issue in block scope and functional scope
 */
 
-console.table([accountId, accountEmail, accountPassword, city]);
+console.table([accountId, accountEmail, accountPassword, city, accountState]);
